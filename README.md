@@ -9,7 +9,7 @@
 
 ## ✨ What is this?
 
-A free, unofficial Chrome extension that adds advanced video controls, auto-reconnect, and recording features to your Ring.com dashboard.
+A free, unofficial Chrome extension that adds advanced video controls and recording features to your Ring.com dashboard.
 
 ---
 
@@ -23,7 +23,6 @@ A free, unofficial Chrome extension that adds advanced video controls, auto-reco
 - 🧹 **Noise Reduction:** Apply a blur filter (0–10px) to reduce video noise.
 - 🗂️ **Camera Grid:** Static grid with clear “Cam 1”, “Cam 2”, etc. labels that always match the UI controls.
 - 🎛️ **Per-Camera Controls:** Each camera feed has its own set of controls.
-- 🔄 **Auto-Reconnect:** Automatically attempts to reconnect if a feed drops (non-aggressive, won’t crash the site).
 - ⏺️ **Recording:** Record any feed to disk with a single click.
 - ⚡ **Lightweight & Stable:** No overlays on video, no DOM reordering, and minimal performance impact.
 - 🏷️ **Subtle Credit:** “Created by James Heselden” appears at the bottom of the control panel.
